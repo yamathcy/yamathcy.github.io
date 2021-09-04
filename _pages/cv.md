@@ -11,21 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Media Science, University of Tsukuba, 2019
+* M.S. in Informatics, University of Tsukuba, 2021
+* Ph.D in Informatics, University of Tsukuba, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* October 2017 - October 2021: Unity Engineer and Teacher
+  * CA Techkids
+  * STEM education for student of elementary school.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2020 - October 2020: Research Assistant
+  * POL Inc.
   
 Skills
 ======
@@ -50,10 +47,8 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* OPEN MUSIC INFORMATICS JP (Slack team)
