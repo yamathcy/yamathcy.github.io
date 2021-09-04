@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuya Yamamoto"
+title: "About Yuya Yamamoto"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
