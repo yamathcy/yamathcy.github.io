@@ -14,7 +14,7 @@ redirect_from:
 About me
 ======
 
-I'm a Ph.D student at [University of Tsukuba](), and The [Lab. for Sound and People with Compting](https://www.slis.tsukuba.ac.jp/lspc/lab/index-e.html), under the supervision of Prof. Nobutaka Suzuki,  Assos.Prof. Hiroko Terasawa, and  Assist.Prof. Hiroyoshi Ito.
+I'm a Ph.D student at [University of Tsukuba](), and The [Lab. for Sound and People with Compting](https://lspc.slis.tsukuba.ac.jp/), under the supervision of Prof. Nobutaka Suzuki,  Assos.Prof. Hiroko Terasawa, and  Assist.Prof. Hiroyoshi Ito.
 
 My research interests include Machine Learning, Audio Signal Processing, Deep Learning, Musicology and Music Information Retrieval.
 
