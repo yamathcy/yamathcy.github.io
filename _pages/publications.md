@@ -24,6 +24,10 @@ author_profile: true
   <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, Yuzuru Hiraga, APSIPA ASC 2021.
 
 ### Non peer-reviewed papers
+  * **Towards computational analysis of singing technique for music information retrieval : A progress report of building
+      dataset and statistical analysis**,
+  <u>Yuya Yamamoto</u>, Daichi Moriyama, Juhan Nam, Hiroko Terasawa, JPTW 2021.
+    
   * **Analysis of Frequency, Acoustic Characteristics, and Occurrence Location of Singing Technique using Imitated J-Pop Singing Voice**,
   <u>Yuya Yamamoto</u>, Tomoyasu Nakano, Masataka Goto, Hiroko Terasawa, Yuzuru Hiraga, SIGMUS-132, 2021.
   
