@@ -55,28 +55,6 @@ Skills
 * Teaching
   * Have an experience of teaching from kindergarden to Graduate school.
 
-
-Publications
-======
-#### Peer-reviewed papers
-  * **Deformable CNN and Imbalance Aware Feature Learning for Singing Technique Classification**,
-  Yuya Yamamoto, Juhan Nam, Hiroko Terasawa, Interspeech 2022.
-    
-  * **Investigating Time-Frequency Representations for Audio Feature Extraction in Singing Technique Classification**,
-  Yuya Yamamoto, Juhan Nam, Hiroko Terasawa, Yuzuru Hiraga, APSIPA ASC 2021.
-
-#### Non peer-reviewed papers
-  * **Analysis of Frequency, Acoustic Characteristics, and Occurrence Location of Singing Technique using Imitated J-Pop Singing Voice**,
-  Yuya Yamamoto, Tomoyasu Nakano, Masataka Goto, Hiroko Terasawa, Yuzuru Hiraga, SIGMUS-132, 2021.
-  
-  * **A Comparison of Hand-crafted Feature and Deep-extracted Feature on Singing Technique Classification**,
-  Yuya Yamamoto, Juhan Nam, Hiroko Terasawa, Yuzuru Hiraga, SIGMUS-130, 2021.
- 
-  * **Towards Assessment of Singing Difficulty Level of Japanese Popular Songs**,
-  Yuya Yamamoto, Yuzuru Hiraga, SIGMUS-124, 2019.
-  
-  * **Singing Difficulty of Japanese Popular Songs: Subjective Evaluation and their Relation to Musical Features**,
-  Yuya Yamamoto, Yuzuru Hiraga, JSMPC(1), 2019.
   
 Talks
 ======
@@ -87,3 +65,19 @@ Talks
 Service and leadership
 ======
 * OPEN MUSIC INFORMATICS JP (Slack team)
+
+
+Awards
+======
+
+* 2021.09 **Best Presentation Award (Best Research)**, IPSJ special interest group on music and computer (SIGMUS)  Summer Symposium 
+* 2021.03 **Dean's Award (4/44)**, Graduate School of Library, Information and Media Studies, University of Tsukuba. 
+
+* 2019.08 **Student Research Encouragement Award**, IPSJ special interest group on music and computer (SIGMUS)  Summer Symposium 
+
+Grant
+* 2021.10- **Support for Pioneering Research Initiated by the Next Generation; SPRING** 
+    * SPRING Fellowship Qualified Students (Class 1; top 25 percentile, 500, 000 yen per year.)
+    * Project name: *Establishing Foundation of Music Technology towards Analyzing Singing Style based on Singing Technique.*
+
+
