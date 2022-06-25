@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a2d678b-18ce-4135-ab67-a9ed48fdd284" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +63,7 @@
       <updated>1630727484624</updated>
       <workItem from="1630727485970" duration="5714000" />
       <workItem from="1655305439891" duration="17000" />
-      <workItem from="1656133281455" duration="2234000" />
+      <workItem from="1656133281455" duration="2313000" />
     </task>
     <servers />
   </component>
@@ -82,5 +81,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="559" y="249" width="672" height="678" key="search.everywhere.popup" timestamp="1656135860808">
+      <screen x="0" y="25" width="1792" height="1023" />
+    </state>
+    <state x="559" y="249" width="672" height="678" key="search.everywhere.popup/1792.-471.1920.1055/0.25.1792.1023@0.25.1792.1023" timestamp="1656135860808" />
   </component>
 </project>
