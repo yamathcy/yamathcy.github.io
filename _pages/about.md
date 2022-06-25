@@ -20,7 +20,7 @@ My research interests include Machine Learning, Audio Signal Processing, Deep Le
 My dream is **to make singing more fun**.
 
 mail: s2130507 (AT) s (DOT) tsukuba (DOT) ac (DOT) jp
-Researh Projects
+Research Projects
 ======
 
  **Computational Musical Performance Analysis**
@@ -37,5 +37,4 @@ Researh Projects
  etc...
  
 
- 
  
