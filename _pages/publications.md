@@ -15,8 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Publications
-======
+
 ### Peer-reviewed papers
   * **Deformable CNN and Imbalance Aware Feature Learning for Singing Technique Classification**,
   <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, Interspeech 2022.
