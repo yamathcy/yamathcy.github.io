@@ -20,9 +20,6 @@ My research interests include Machine Learning, Audio Signal Processing, Deep Le
 My dream is **to make singing more fun**.
 
 mail: s2130507 (AT) s (DOT) tsukuba (DOT) ac (DOT) jp
-
-in Japanese [here](https://sites.google.com/view/yamathcy-japanese/%E3%83%9B%E3%83%BC%E3%83%A0)
-
 Researh Projects
 ======
 

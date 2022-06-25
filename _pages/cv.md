@@ -23,15 +23,28 @@ Work experience
 
 * May 2020 - October 2020: Research Assistant
   * POL Inc.
+
+Research Collaboration
+======
+* 2019- AIST, Japan
+  * collaborator: Masataka Goto and Tomoyasu Nakano.
+  * Internship: 2019
+  * theme: analysis of imitation of singing voice
+* 2020- KAIST, South Korea
+  * collaborator: Juhan Nam.
+  * theme: modeling of musical expressiveness based on deep learning 
   
+ 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * General use: C/C++, C#, Python
+  * WEB: HTML, CSS, Javascript(React.js, Vue.js), Python(flask)
+  * Game creation: Unity(C#)
+  * Scientific: Python (numpy, pandas, tensorflow, pytorch, Librosa etc.), R, Stan
+* Teaching
+  * Have an experience of teaching from kindergarden to Graduate school.
+
 
 Publications
 ======
