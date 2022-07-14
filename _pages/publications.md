@@ -17,8 +17,11 @@ author_profile: true
 
 
 ### Peer-reviewed papers
+  * **Analysis and detection of singing techniques in repertoires of J-POP solo singers**,
+  <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, ISMIR 2022. (To appear)
+  
   * **Deformable CNN and Imbalance Aware Feature Learning for Singing Technique Classification**,
-  <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, Interspeech 2022.
+  <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, Interspeech 2022. (To appear)
     
   * **Investigating Time-Frequency Representations for Audio Feature Extraction in Singing Technique Classification**,
   <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, Yuzuru Hiraga, APSIPA ASC 2021.
