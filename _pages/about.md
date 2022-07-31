@@ -49,6 +49,3 @@ Research Projects
  + Music Information Retrieval
  etc...
  
-
-
- ##### Analysis of imitated singing voice

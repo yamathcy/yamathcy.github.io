@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download from [here](files/CV_Yuya_Yamamoto.pdf).
+Download from [here](yamathcy.github.io/files/CV_Yuya_Yamamoto.pdf).
 
 
 
