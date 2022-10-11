@@ -17,11 +17,14 @@ author_profile: true
 
 
 ### Peer-reviewed papers
+  * **Human-In-The-Loop Chord Progression Generator With Generative Adversarial Network**,
+  Yoshiteru Matsumoto, Hiroyoshi Ito, Hiroko Terasawa, <u>Yuya Yamamoto</u>, Yuzuru Hiraga, Masaki Matsubara APSIPA ASC 2022. (To appear) 
+
   * **Analysis and detection of singing techniques in repertoires of J-POP solo singers**,
-  <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, ISMIR 2022. (To appear)
+  <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, ISMIR 2022. (To appear) <span style="color: red; ">ISMIR student author grant</span>
   
   * **Deformable CNN and Imbalance Aware Feature Learning for Singing Technique Classification**,
-  <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, Interspeech 2022. (To appear)
+  <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, Interspeech 2022.
     
   * **Investigating Time-Frequency Representations for Audio Feature Extraction in Singing Technique Classification**,
   <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, Yuzuru Hiraga, APSIPA ASC 2021.
@@ -32,13 +35,13 @@ author_profile: true
   <u>Yuya Yamamoto</u>, Daichi Moriyama, Juhan Nam, Hiroko Terasawa, JPTW 2021.
     
   * **Analysis of Frequency, Acoustic Characteristics, and Occurrence Location of Singing Technique using Imitated J-Pop Singing Voice**,
-  <u>Yuya Yamamoto</u>, Tomoyasu Nakano, Masataka Goto, Hiroko Terasawa, Yuzuru Hiraga, SIGMUS-132, 2021. (in Japanese)
+  <u>Yuya Yamamoto</u>, Tomoyasu Nakano, Masataka Goto, Hiroko Terasawa, Yuzuru Hiraga, SIGMUS-132, 2021. (in Japanese)<span style="color: red; ">Best presentation award (Best research)</span>
   
   * **A Comparison of Hand-crafted Feature and Deep-extracted Feature on Singing Technique Classification**,
   <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, Yuzuru Hiraga, SIGMUS-130, 2021. (in Japanese)
  
   * **Towards Assessment of Singing Difficulty Level of Japanese Popular Songs**,
-  <u>Yuya Yamamoto</u>, Yuzuru Hiraga, SIGMUS-124, 2019. (in Japanese)
+  <u>Yuya Yamamoto</u>, Yuzuru Hiraga, SIGMUS-124, 2019. (in Japanese), <span style="color: red; ">Student encouragement award </span>
   
   * **Singing Difficulty of Japanese Popular Songs: Subjective Evaluation and their Relation to Musical Features**,
   <u>Yuya Yamamoto</u>, Yuzuru Hiraga, JSMPC(1), 2019. (in Japanese)
