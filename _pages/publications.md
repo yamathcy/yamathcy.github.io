@@ -16,12 +16,13 @@ author_profile: true
 {% endfor %}
 
 ### Journals
+<!--
 * **COSIAN: A Dataset for computational analysis and identification of Singing Techniuques in real-world repertoires on J-POP**
 <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, EURASIP Journal on Audio, Speech, and Music Processing (In preparation)
 
 * **Singing technique analysis with correspondence to musical score on imitative singing of popular music**,
   <u>Yuya Yamamoto</u>, Tomoyasu Nakano, Masataka Goto, Hiroko Terasawa, Yuzuru Hiraga Journal of IPSJ. (Submitted) 
-
+-->
 ### Peer-reviewed papers
   * **Human-In-The-Loop Chord Progression Generator With Generative Adversarial Network**,
   Yoshiteru Matsumoto, Hiroyoshi Ito, Hiroko Terasawa, <u>Yuya Yamamoto</u>, Yuzuru Hiraga, Masaki Matsubara APSIPA ASC 2022. (To appear) 
