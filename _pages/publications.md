@@ -19,16 +19,15 @@ author_profile: true
 <!--
 * **COSIAN: A Dataset for computational analysis and identification of Singing Techniuques in real-world repertoires on J-POP**
 <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, EURASIP Journal on Audio, Speech, and Music Processing (In preparation)
-
-* **Singing technique analysis with correspondence to musical score on imitative singing of popular music**,
-  <u>Yuya Yamamoto</u>, Tomoyasu Nakano, Masataka Goto, Hiroko Terasawa, Yuzuru Hiraga Journal of IPSJ. (Submitted) 
 -->
+* **Singing technique analysis with correspondence to musical score on imitative singing of popular music**,
+  <u>Yuya Yamamoto</u>, Tomoyasu Nakano, Masataka Goto, Hiroko Terasawa, Yuzuru Hiraga Journal of IPSJ. (in Japanese, Submitted) 
 ### Peer-reviewed papers
   * **Human-In-The-Loop Chord Progression Generator With Generative Adversarial Network**,
-  Yoshiteru Matsumoto, Hiroyoshi Ito, Hiroko Terasawa, <u>Yuya Yamamoto</u>, Yuzuru Hiraga, Masaki Matsubara APSIPA ASC 2022. (To appear) 
+  Yoshiteru Matsumoto, Hiroyoshi Ito, Hiroko Terasawa, <u>Yuya Yamamoto</u>, Yuzuru Hiraga, Masaki Matsubara APSIPA ASC 2022.
 
   * **Analysis and detection of singing techniques in repertoires of J-POP solo singers**,
-  <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, ISMIR 2022. (To appear) <span style="color: red; ">ISMIR student author grant</span>
+  <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, ISMIR 2022. (To appear) <span style="color: red; "> ISMIR student author grant</span>
   
   * **Deformable CNN and Imbalance Aware Feature Learning for Singing Technique Classification**,
   <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, Interspeech 2022.
@@ -42,7 +41,9 @@ author_profile: true
   <u>Yuya Yamamoto</u>, Daichi Moriyama, Juhan Nam, Hiroko Terasawa, JPTW 2021.
     
   * **Analysis of Frequency, Acoustic Characteristics, and Occurrence Location of Singing Technique using Imitated J-Pop Singing Voice**,
-  <u>Yuya Yamamoto</u>, Tomoyasu Nakano, Masataka Goto, Hiroko Terasawa, Yuzuru Hiraga, SIGMUS-132, 2021. (in Japanese)<span style="color: red; ">Best presentation award (Best research)</span>
+  <u>Yuya Yamamoto</u>, Tomoyasu Nakano, Masataka Goto, Hiroko Terasawa, Yuzuru Hiraga, SIGMUS-132, 2021. (in Japanese)
+  <span style="color: red; ">Best presentation award (Best research)</span>
+  <span style="color: red; ">IPSJ Yamashita SIG Research Award</span>
   
   * **A Comparison of Hand-crafted Feature and Deep-extracted Feature on Singing Technique Classification**,
   <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, Yuzuru Hiraga, SIGMUS-130, 2021. (in Japanese)
