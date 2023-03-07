@@ -24,11 +24,14 @@ author_profile: true
   <u>Yuya Yamamoto</u>, Tomoyasu Nakano, Masataka Goto, Hiroko Terasawa Journal of IPSJ. (in Japanese, Submitted) 
 
 ### Peer-reviewed papers
+  * **PrimaDNN': A Characteristics-aware DNN customization for singing technique detection**,
+    <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, Submitted to EUSIPCO 2023.
+    
   * **Human-In-The-Loop Chord Progression Generator With Generative Adversarial Network**,
   Yoshiteru Matsumoto, Hiroyoshi Ito, Hiroko Terasawa, <u>Yuya Yamamoto</u>, Yuzuru Hiraga, Masaki Matsubara APSIPA ASC 2022.
 
   * **Analysis and detection of singing techniques in repertoires of J-POP solo singers**,
-  <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, ISMIR 2022. (To appear) <span style="color: red; "> ISMIR student author grant</span>
+  <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, ISMIR 2022. <span style="color: red; "> ISMIR student author grant</span>
   
   * **Deformable CNN and Imbalance Aware Feature Learning for Singing Technique Classification**,
   <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, Interspeech 2022.

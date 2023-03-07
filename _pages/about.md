@@ -12,9 +12,8 @@ redirect_from:
 -->
 Japanese page: [here](https://sites.google.com/view/yamathcy-japanese/%E3%83%9B%E3%83%BC%E3%83%A0)
 
-
 NEWS
-======
+=====
 - October 2022: Accepted travel grant of The Telecommunications Advancement Foundation! 
 - July 2022: The manuscript of SIGMUS-132 prized Yamashita Memorial Research Award from Information Processing Society of Japan (IPSJ)! [URL](https://www.ipsj.or.jp/award/yamasita2022-detail.html#mus)
 - July 2022: One paper has been accepted at ISMIR 2022!
@@ -24,7 +23,7 @@ NEWS
 About me
 ======
 
-I'm a Ph.D student at [University of Tsukuba](), and The [Lab. for Sound and People with Compting](https://lspc.slis.tsukuba.ac.jp/), under the supervision of Prof. Nobutaka Suzuki,  Assos.Prof. Hiroko Terasawa, and  Assist.Prof. Hiroyoshi Ito.
+I'm a third year Ph.D student at [University of Tsukuba](), and The [Lab. for Sound and People with Computing](https://lspc.slis.tsukuba.ac.jp/), under the supervision of Prof. Nobutaka Suzuki,  Assos.Prof. Hiroko Terasawa, and  Assist.Prof. Hiroyoshi Ito.
 
 My research interests include Machine Learning, Audio Signal Processing, Deep Learning, Musicology and Music Information Retrieval.
 
