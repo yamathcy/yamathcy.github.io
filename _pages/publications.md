@@ -21,7 +21,7 @@ author_profile: true
 <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, EURASIP Journal on Audio, Speech, and Music Processing (In preparation)
 -->
 *  **Singing technique analysis with correspondence to musical score on imitative singing of popular music**,
-  <u>Yuya Yamamoto</u>, Tomoyasu Nakano, Masataka Goto, Hiroko Terasawa Journal of IPSJ. (in Japanese, Submitted) 
+  <u>Yuya Yamamoto</u>, Tomoyasu Nakano, Masataka Goto, Hiroko Terasawa Journal of IPSJ. (Accepted, in Japanese)
 
 ### Peer-reviewed papers
   * **Toward Leveraging Pre-Trained Self-Supervised Frontends for Singing Voice Understanding: Case Studies on Three Tasks**,
