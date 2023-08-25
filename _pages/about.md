@@ -14,11 +14,12 @@ Japanese page: [here](https://sites.google.com/view/yamathcy-japanese/%E3%83%9B%
 
 NEWS
 =====
+- June 2022: One paper has been accepted at APSIPA ASC 2023!
+- July 2023: One IPSJ journal paper (in Japanese) has been accepted!
 - May 2023: One paper has been accepted at EUSIPCO 2023!
 - October 2022: Accepted travel grant of The Telecommunications Advancement Foundation! 
 - July 2022: The manuscript of SIGMUS-132 prized Yamashita Memorial Research Award from Information Processing Society of Japan (IPSJ)! [URL](https://www.ipsj.or.jp/award/yamasita2022-detail.html#mus)
 - July 2022: One paper has been accepted at ISMIR 2022!
-- June 2022: One paper has been accepted at Interpseech 2022!
 
 
 About me

@@ -25,22 +25,32 @@ author_profile: true
 
 ### Peer-reviewed papers
   * **Toward Leveraging Pre-Trained Self-Supervised Frontends for Singing Voice Understanding: Case Studies on Three Tasks**,
-    <u>Yuya Yamamoto</u>, Submitted to APSIPA ASC 2023.
+    <u>Yuya Yamamoto</u>. APSIPA ASC 2023. (Accepted)
+
+      [pdf](https://yamathcy.github.io/files/apsipa23.pdf)
     
   * **PrimaDNN': A Characteristics-aware DNN customization for singing technique detection**,
     <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, EUSIPCO 2023. (Accepted)
-    
+
+      [pdf](https://yamathcy.github.io/files/eusipco23.pdf)
+
   * **Human-In-The-Loop Chord Progression Generator With Generative Adversarial Network**,
   Yoshiteru Matsumoto, Hiroyoshi Ito, Hiroko Terasawa, <u>Yuya Yamamoto</u>, Yuzuru Hiraga, Masaki Matsubara APSIPA ASC 2022.
 
   * **Analysis and detection of singing techniques in repertoires of J-POP solo singers**,
   <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, ISMIR 2022. <span style="color: red; "> ISMIR student author grant</span>
-  
+
+    [pdf](https://yamathcy.github.io/files/ismir22.pdf)
+
   * **Deformable CNN and Imbalance Aware Feature Learning for Singing Technique Classification**,
   <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, Interspeech 2022.
     
+  [pdf](https://yamathcy.github.io/files/interspeech22.pdf)
+    
   * **Investigating Time-Frequency Representations for Audio Feature Extraction in Singing Technique Classification**,
   <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, Yuzuru Hiraga, APSIPA ASC 2021.
+  
+  [pdf](https://yamathcy.github.io/files/apsipa21.pdf)
 
 ### Non peer-reviewed papers
   * **Exploring Pretrained Self-supervised Frontends for Singing Voice Identification Tasks**,
