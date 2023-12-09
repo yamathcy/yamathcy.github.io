@@ -21,22 +21,24 @@ author_profile: true
 <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, EURASIP Journal on Audio, Speech, and Music Processing (In preparation)
 -->
 *  **Singing technique analysis with correspondence to musical score on imitative singing of popular music**,<br>
-  <u>Yuya Yamamoto</u>, Tomoyasu Nakano, Masataka Goto, Hiroko Terasawa Journal of IPSJ. (Accepted, in Japanese)
+  <u>Yuya Yamamoto</u>, Tomoyasu Nakano, Masataka Goto, Hiroko Terasawa Journal of IPSJ. Vol 64, No. 10
+  <span style="color: red; "> IPSJ Journal Selected Paper </span><br>
+  [pdf](https://staff.aist.go.jp/m.goto/PAPER/TIPSJ202310yamamoto.pdf)
 
 ### Peer-reviewed papers
   * **Toward Leveraging Pre-Trained Self-Supervised Frontends for Singing Voice Understanding: Case Studies on Three Tasks**,<br>
-    <u>Yuya Yamamoto</u>. APSIPA ASC 2023. (Accepted)<br>
+    <u>Yuya Yamamoto</u>. APSIPA ASC 2023.<br>
     [pdf](https://yamathcy.github.io/files/apsipa23.pdf)
     
   * **PrimaDNN': A Characteristics-aware DNN customization for singing technique detection**,<br>
-    <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, EUSIPCO 2023. (Accepted)<br>
+    <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, EUSIPCO 2023.<br>
     [pdf](https://yamathcy.github.io/files/eusipco23.pdf)
 
   * **Human-In-The-Loop Chord Progression Generator With Generative Adversarial Network**,<br>
   Yoshiteru Matsumoto, Hiroyoshi Ito, Hiroko Terasawa, <u>Yuya Yamamoto</u>, Yuzuru Hiraga, Masaki Matsubara APSIPA ASC 2022.<br>
 
   * **Analysis and detection of singing techniques in repertoires of J-POP solo singers**,<br>
-  <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, ISMIR 2022. <span style="color: red; "> ISMIR student author grant</span><br>
+  <u>Yuya Yamamoto</u>, Juhan Nam, Hiroko Terasawa, ISMIR 2022. <span style="color: red; "> ISMIR student author grant </span><br>
   [pdf](https://yamathcy.github.io/files/ismir22.pdf)
 
   * **Deformable CNN and Imbalance Aware Feature Learning for Singing Technique Classification**,<br>
