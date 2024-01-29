@@ -14,7 +14,7 @@ Japanese page: [here](https://sites.google.com/view/yamathcy-japanese/%E3%83%9B%
 
 NEWS
 =====
-- January 2024: Suceeded in Ph.D. defense!! [Slide](https://yamathcy.github.io/files/yamamoto_defense_public.pdf)
+- January 2024: Succeeded in Ph.D. defense!! [Slide](https://yamathcy.github.io/files/yamamoto_defense_public.pdf)
 - October 2023: Our journal paper was selected as Special Selected Paper in IPSJ Journal Vol. 64 No. 10!
 - June 2022: One paper has been accepted at APSIPA ASC 2023!
 - July 2023: One IPSJ journal paper (in Japanese) has been accepted!
