@@ -73,3 +73,7 @@ author_profile: true
   
   * **Singing Difficulty of Japanese Popular Songs: Subjective Evaluation and their Relation to Musical Features**,<br>
   <u>Yuya Yamamoto</u>, Yuzuru Hiraga, JSMPC(1), 2019. (in Japanese)
+
+  ### Dissertations
+  *  **A computational approach to analysis and detection of singing techniques**
+  <u>Yuya Yamamoto</u>, Ph.D. Thesis,  Doctoral Programs in Informatics, Graduate School of Comprehensive Human Sciences, University of Tsukuba. [PDF](https://drive.google.com/file/d/1-tg0gnVQS3-es-XlesbonDsKLR6aO4LA/view?usp=drive_link) [Slide](https://yamathcy.github.io/files/yamamoto_defense_public.pdf)
