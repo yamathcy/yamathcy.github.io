@@ -14,18 +14,19 @@ Japanese page: [here](https://sites.google.com/view/yamathcy-japanese/%E3%83%9B%
 
 NEWS
 =====
+- March 2024: Graduated from doctoral course on University of Tsukuba and Won the president award from faculty of human comprehensive science! 
 - January 2024: Succeeded in Ph.D. defense!! [Slide](https://yamathcy.github.io/files/yamamoto_defense_public.pdf)
 - October 2023: Our journal paper was selected as Special Selected Paper in IPSJ Journal Vol. 64 No. 10!
 - June 2022: One paper has been accepted at APSIPA ASC 2023!
 - July 2023: One IPSJ journal paper (in Japanese) has been accepted!
 - May 2023: One paper has been accepted at EUSIPCO 2023!
-- October 2022: Accepted travel grant of The Telecommunications Advancement Foundation! 
 
 
 About me
 ======
+**Yuya Yamamoto, Ph.D. (Informatics)**
 
-I'm a third year Ph.D student at [University of Tsukuba](), and The [Lab. for Sound and People with Computing](https://lspc.slis.tsukuba.ac.jp/), under the supervision of Prof. Nobutaka Suzuki,  Assos.Prof. Hiroko Terasawa, and  Assist.Prof. Hiroyoshi Ito.
+In 2024, I graduated Ph.D course at [University of Tsukuba](), and The [Lab. for Sound and People with Computing](https://lspc.slis.tsukuba.ac.jp/), under the supervision of Prof. Nobutaka Suzuki,  Assos.Prof. Hiroko Terasawa, and  Assist.Prof. Hiroyoshi Ito.
 
 My research interests include Machine Learning, Audio Signal Processing, Deep Learning, Musicology and Music Information Retrieval.
 
