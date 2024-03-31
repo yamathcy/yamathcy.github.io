@@ -25,6 +25,7 @@ NEWS
 About me
 ======
 **Yuya Yamamoto, Ph.D. (Informatics)**
+I'm now a engineer at AlphaTheta. 
 
 In 2024, I graduated Ph.D course at [University of Tsukuba](), and The [Lab. for Sound and People with Computing](https://lspc.slis.tsukuba.ac.jp/), under the supervision of Prof. Nobutaka Suzuki,  Assos.Prof. Hiroko Terasawa, and  Assist.Prof. Hiroyoshi Ito.
 
