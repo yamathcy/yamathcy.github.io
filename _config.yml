@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuya Yamamoto"
   avatar           : "yamathcy.png"
-  bio              : "Ph.D student at University of Tsukuba."
-  location         : "Tsukuba, Ibaraki, Japan."
+  bio              : "AlphaTheta Co."
+  location         : "Yokohama, Kanagawa, Japan."
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "s2130507@s.tsukuba.ac.jp"
+  googlescholar    : "https://scholar.google.com/citations?user=V5nyyVYAAAAJ&hl=en"
+  email            : "yyamamoto13044aa@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "yamatchy"
+  twitter          : "0nigiritar0"
   vine             :
   weibo            :
   xing             :
