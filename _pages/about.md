@@ -32,14 +32,14 @@ In 2024, I graduated Ph.D course at [University of Tsukuba](), and The [Lab. for
 
 My research interests include Machine Learning, Audio Signal Processing, Deep Learning, Musicology and Music Information Retrieval.
 
-My dream is **to make singing more fun**.
+My mission is **remove the barrier of "impossible" for human.**
 
-mail: s2130507 (AT) s (DOT) tsukuba (DOT) ac (DOT) jp
+mail: yyamamoto13044aa [at] gmail [dot] com
 
 
 Research Projects
 ======
-
+(on my Ph.D.)
  **Computational Musical Performance Analysis**
  
  I'm working on computational analysis of musical performance, especially in Pop-style singing.
